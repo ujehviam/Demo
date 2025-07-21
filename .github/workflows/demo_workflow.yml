@@ -1,0 +1,6 @@
+name: Demo workflow
+on:
+    pull_request:
+        types:
+            - opened
+            
